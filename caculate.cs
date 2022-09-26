@@ -15,5 +15,10 @@ public static class caculate{
 	      }
 
 
+                   public int decreat(int x ,int y){
 
-}
+                        return x-y;
+
+		   }
+
+   }
